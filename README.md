@@ -91,8 +91,3 @@ This Power BI project provides an interactive dashboard for analyzing call cente
 * Efficiency of response times
 * Sentiment trends and service quality
 * Channel effectiveness
-  
----
-
-
-⭐ If you found this useful, feel free to star the repo!
